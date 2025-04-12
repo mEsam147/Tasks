@@ -1,4 +1,4 @@
-# 🚀 My Project Name
+# 🚀 My Project Tasks
 
 A modern full-stack web application built with **Next.js**, **Redux Toolkit**, **TypeScript**, **Tailwind CSS**, and **MongoDB**. This project demonstrates clean architecture, scalable state management, role-based authentication, and responsive UI.
 
@@ -13,12 +13,11 @@ A modern full-stack web application built with **Next.js**, **Redux Toolkit**, *
 - 🌐 Real-time Data with Redux Toolkit Query
 - 💾 MongoDB Integration with Mongoose/express.js 
 - 🎨 Beautiful UI with Tailwind CSS + Framer Motion
-- 🧪 Unit and Integration Testing Setup
 - 🧠 Modular File Structure & SOLID Principles
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Next.js, Redux Toolkit, RTK Query, Tailwind CSS, TypeScript, Framer Motion
+- **Frontend**: React, Next.js, Redux Toolkit, RTK Query, Tailwind CSS,Shadcn ui , TypeScript, Framer Motion
 - **Backend**: Node.js, Express , MongoDB, Puppeteer
 - **Auth**: JWT with Refresh Tokens
 - **Dev Tools**: ESLint, Prettier
