@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "baseUrl": "./src", // Add this to make imports relative to src
+    "typeRoots": ["./src/types", "./node_modules/@types"],
+    "types": ["node", "express"] // Explicitly include express types
+  },
+  "include": ["src/**/*"] // Simplify, since src/types is already included
+}
